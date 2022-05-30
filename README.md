@@ -1,1 +1,1 @@
-# Criando modelo básico de e-commerce com Angular
+# Criando modelo básico de E-commerce com Angular
